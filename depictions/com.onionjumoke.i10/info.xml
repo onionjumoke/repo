@@ -1,0 +1,46 @@
+<package>
+	<id>com.onionjumoke.i10</id>
+	<name>Full Package</name>
+	<version>i1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>6.X-14.X</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Pre-2016 Windows 10 theme.</shortDescription>
+	<descriptionlist>
+		<description>This item has and always will be free. #FuckHavocImNotPayingForThemes</description>
+		<description>I also suggest using Snowboard for this theme, if possible.</description>
+		<description>Behold! The greatest Windows 10 theme you'll ever find for your device!</description>
+		<description><![CDATA[
+		This is my first big project, it's essentially a pre-2016 Windows 10 theme,<br/> 
+		designed to look like those monochromatic icons from back then.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Really nice, super simple.</description>
+			<image>i10-1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Fully compatible with your tweak manager!</description>
+			<image>10-1.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>First Release</change>
+		<change>It's got a customized calendar icon</change>
+		<change>It's also got a customized clock icon, but i can't seem to make it automatic.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/onionjumokee</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</links>
+</package>
