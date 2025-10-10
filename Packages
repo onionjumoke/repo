@@ -1,28 +1,27 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
+Package: com.onionjumoke.appstar
+Version: 0.3
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Maintainer: onionjumoke <onionjumoke@gmail.com>
+Depends: firmware (<7.0), firmware (>2.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Filename: ./debs/com.onionjumoke.appstar.deb
+Size: 687216
+MD5sum: b887fa8c754294c29e4de48ddeaa6bd7
+Description: installous but with the appstar icon
+Name: appstar
+Author: onionjumoke <onionjumoke@gmail.com>
+Depiction: https://repo.onionjumoke.my.to/depictions/com.onionjumoke.appstar
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
+Package: com.beyoip.install0us_2.5.2.the.end_iphoneos-arm.deb
+Version: 2.5.2
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Maintainer: no one <noonesorry@gmail.com>
+Depends: firmware (<7.0), firmware (>2.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-
+Filename: ./debs/com.beyoip.install0us_2.5.2.the.end_iphoneos-arm.deb
+Size: 687216
+MD5sum: b887fa8c754294c29e4de48ddeaa6bd7
+Description: veteris but from way back then
+Name: install0us
+Author: onionjumoke <onionjumoke@gmail.com>
+Depiction: https://repo.onionjumoke.my.to/depictions/com.beyoip.install0us_2.5.2.the.end_iphoneos-arm
