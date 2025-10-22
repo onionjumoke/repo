@@ -1,17 +1,3 @@
-Package: com.onionjumoke.appstar
-Version: 0.3
-Section: Tweaks
-Maintainer: onionjumoke <onionjumoke@gmail.com>
-Depends: firmware (<7.0), firmware (>2.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.onionjumoke.appstar.deb
-Size: 687216
-MD5sum: b887fa8c754294c29e4de48ddeaa6bd7
-Description: installous but with the appstar icon
-Name: appstar
-Author: onionjumoke <onionjumoke@gmail.com>
-Depiction: https://repo.onionjumoke.my.to/depictions/com.onionjumoke.appstar
-
 Package: com.beyoip.install0us_2.5.2.the.end_iphoneos-arm.deb
 Version: 2.5.2
 Section: Tweaks
